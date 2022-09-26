@@ -1,0 +1,5 @@
+com\webapp\Controller\ClientController.class
+com\webapp\Controller\LoginController.class
+com\webapp\Model\Client.class
+com\webapp\DAO\ClientDAO.class
+com\webapp\Model\User.class
